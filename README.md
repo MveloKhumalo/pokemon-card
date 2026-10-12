@@ -11,7 +11,7 @@ A simple and interactive Pokémon Image App built using **HTML**, **CSS**, and *
 
 ## Demo
 
-[Live Demo](https://mvelo-081.github.io/pokemon-card/)
+[Live Demo](https://mvelokhumalo.github.io/pokemon-card/)
 
 ## Technologies Used
 
